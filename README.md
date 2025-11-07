@@ -55,7 +55,7 @@ GIF created with Kap
 ## Notes
 
 Describe any challenges encountered while building the app.
-- Some news images could not be shown, I tried to add a placeholder image in this case, but it seems not working.
+- Certain news images fail to load. I implemented a placeholder image to handle such cases, but it appears the solution isn’t functioning as intended.
 
 ## License
 
