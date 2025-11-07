@@ -55,6 +55,7 @@ GIF created with Kap
 ## Notes
 
 Describe any challenges encountered while building the app.
+- Some news images could not be shown, I tried to add a placeholder image in this case, but it seems not working.
 
 ## License
 
