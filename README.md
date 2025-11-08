@@ -43,7 +43,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap 
@@ -55,6 +55,7 @@ GIF created with Kap
 ## Notes
 
 Describe any challenges encountered while building the app.
+- Certain news images fail to load. I implemented a placeholder image to handle such cases, but it appears the solution isn’t functioning as intended.
 
 ## License
 
