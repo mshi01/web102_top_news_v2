@@ -61,7 +61,7 @@ export default function StockCharts() {
   return (
     <div className="market-index-chart">
       <h1>Top U.S. Market Indices</h1>
-      <h3>Close charts for most recent 30 trading days</h3>
+      <h3>Close data for most recent 30 trading days</h3>
 
       {Object.entries(data).map(([name, indexData]) => (
         <div key={name} className="index-chart">
